@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+<channel>
+  <title>Example Site</title>
+  <link>http://www.example.com</link>
+  <description></description>
+
+  <item>
+    <g:id>123</id>
+    <g:title>4 in 1 USB Charging Cable</g:title>
+    <g:description>4 in 1 USB Charging Cable. Compatible with iPhone 4/4S</g:description>
+    <g:googleProductCategory>5300</g:googleProductCategory>
+    <g:productType>Cell Phones &gt; Accessories</g:productType>
+    <g:productType>sellerId:2468</g:productType>
+    <g:link>https://www.example.com/auction/26834855-4-in-1-usb-charging-cable</g:link>
+    <g:google_product_category>5300</g:google_product_category>
+    <g:image_link></g:image_link>
+    <g:availability>in stock</g:availability>
+    <g:sale_price>2000 OTH</g:sale_price>
+    <g:price>28900 OTH</g:price>
+  </item>
+
+</channel>
+</rss>
