@@ -4,6 +4,7 @@
   <title>Example Site</title>
   <link>http://www.example.com</link>
   <description></description>
+
   <item>
     <g:id>123</g:id>
     <g:title>4 in 1 USB Charging Cable</g:title>
@@ -18,5 +19,6 @@
     <g:sale_price>2000 OTH</g:sale_price>
     <g:price>28900 OTH</g:price>
   </item>
+
 </channel>
 </rss>
